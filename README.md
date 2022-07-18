@@ -14,10 +14,10 @@ COLUMN or LINE charts builder.
 
 # Features
 
-StrokeCap? strokeCap - corner radius of the chart.
-double? strokeWidth - Width of the chart.
-Color? color - Color of the chart.
-String? label - You can add a label to the chart.
+- **StrokeCap?** strokeCap - corner radius of the chart.
+- **double?** strokeWidth - Width of the chart.
+- **Color?** color - Color of the chart.
+- **String?** label - You can add a label to the chart.
 
 # Getting started
 
