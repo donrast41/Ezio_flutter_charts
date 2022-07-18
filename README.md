@@ -29,7 +29,7 @@ ezio_flutter_charts_package: ^0.01
 ## importing
 
 importing:
-import 'package:ezio_flutter_charts_package/ezio_flutter_charts_package.dart';
+```import 'package:ezio_flutter_charts_package/ezio_flutter_charts_package.dart';```
 
 # Usage
 
