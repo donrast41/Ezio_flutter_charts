@@ -24,7 +24,7 @@ COLUMN or LINE charts builder.
 ## pub dependency
 
 **Dependencies:**
-ezio_flutter_charts_package: ^0.01
+ezio_flutter_charts_package: ^0.0.3
 
 ## importing
 
