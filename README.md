@@ -23,12 +23,12 @@ COLUMN or LINE charts builder.
 
 ## pub dependency
 
-dependencies:
+**Dependencies:**
 ezio_flutter_charts_package: ^0.01
 
 ## importing
 
-importing:
+**Importing:**
 ```import 'package:ezio_flutter_charts_package/ezio_flutter_charts_package.dart';```
 
 # Usage
