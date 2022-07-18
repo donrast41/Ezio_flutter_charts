@@ -6,11 +6,11 @@ the developer wants to show any data on the screen as a chart, he can use this p
 ## Examples of charts
 COLUMN or LINE charts builder.
 
-![](.github/scrn-1.png)
+![](https://github.com/donrast41/ezio_flutter_charts_package/blob/develop/photo_2022-07-18%2020.05.43.jpeg)
 
-![](.github/scrn-2.png)
+![](https://github.com/donrast41/ezio_flutter_charts_package/blob/develop/photo_2022-07-18%2020.05.45.jpeg)
 
-![](.github/scrn-3.png)
+![](https://github.com/donrast41/ezio_flutter_charts_package/blob/develop/photo_2022-07-18%2020.05.47.jpeg)
 
 # Features
 
