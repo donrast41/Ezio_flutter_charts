@@ -35,6 +35,8 @@ ezio_flutter_charts_package: ^0.01
 
 **Example:** https://github.com/donrast41/ezio_flutter_charts_package/tree/develop/example
 
+**IMPORTANT:** Use the SizedBox with height as a parent, if you want to use Chart inside a Column, SingleChildScrollView and etc.
+
 ```dart
 SizedBox(
     height: 600,
