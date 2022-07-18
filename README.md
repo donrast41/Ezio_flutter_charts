@@ -1,6 +1,12 @@
 
 COLUMN or LINE charts builder.
 
+"![](.github/scrn-1.png)"
+
+"![](.github/scrn-2.png)"
+
+"![](.github/scrn-3.png)"
+
 # Features
 
 StrokeCap? strokeCap - corner radius of the chart.
