@@ -28,14 +28,14 @@ to `/example` folder.
 SizedBox(
     height: 600,
     child: ColumnChart(
-    color: Colors.purple,
-    strokeWidth: 4,
-    strokeCap: StrokeCap.butt,
-    label: 'Column chart',
-    chartPoints: widget.chartPoints,
-    axisPoints: widget.axesPoints,
-    context: context,
-  ),
+        color: Colors.purple,
+        strokeWidth: 4,
+        strokeCap: StrokeCap.butt,
+        label: 'Column chart',
+        chartPoints: widget.chartPoints,
+        axisPoints: widget.axesPoints,
+        context: context,
+    ),
 ),
 ```
 
