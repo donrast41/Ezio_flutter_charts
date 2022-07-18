@@ -3,7 +3,7 @@
 The package helps the developer to draw different charts on the page screen. If
 the developer wants to show any data on the screen as a chart, he can use this package.
 
-##Examples of charts
+## Examples of charts
 COLUMN or LINE charts builder.
 
 ![](.github/scrn-1.png)
