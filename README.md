@@ -1,11 +1,11 @@
 
 COLUMN or LINE charts builder.
 
-"![](.github/scrn-1.png)"
+![](.github/scrn-1.png)
 
-"![](.github/scrn-2.png)"
+![](.github/scrn-2.png)
 
-"![](.github/scrn-3.png)"
+![](.github/scrn-3.png)
 
 # Features
 
@@ -28,6 +28,8 @@ import 'package:ezio_flutter_charts_package/ezio_flutter_charts_package.dart';
 
 # Usage
 
+example: https://github.com/donrast41/ezio_flutter_charts_package/tree/develop/example
+
 ```dart
 SizedBox(
     height: 600,
@@ -45,4 +47,4 @@ SizedBox(
 
 # Additional information
 
-If you want to see source code, go to package git -> 
+If you want to see source code, go to package git -> https://github.com/donrast41/ezio_flutter_charts_package
