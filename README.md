@@ -1,4 +1,9 @@
 
+# About plugin
+The package helps the developer to draw different charts on the page screen. If
+the developer wants to show any data on the screen as a chart, he can use this package.
+
+## Examples of charts
 COLUMN or LINE charts builder.
 
 ![](.github/scrn-1.png)
@@ -9,10 +14,10 @@ COLUMN or LINE charts builder.
 
 # Features
 
-StrokeCap? strokeCap - corner radius of the chart.
-double? strokeWidth - Width of the chart.
-Color? color - Color of the chart.
-String? label - You can add a label to the chart.
+- **StrokeCap?** strokeCap - corner radius of the chart.
+- **double?** strokeWidth - Width of the chart.
+- **Color?** color - Color of the chart.
+- **String?** label - You can add a label to the chart.
 
 # Getting started
 
