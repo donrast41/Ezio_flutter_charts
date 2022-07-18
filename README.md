@@ -33,7 +33,7 @@ importing:
 
 # Usage
 
-example: https://github.com/donrast41/ezio_flutter_charts_package/tree/develop/example
+**Example:** https://github.com/donrast41/ezio_flutter_charts_package/tree/develop/example
 
 ```dart
 SizedBox(
